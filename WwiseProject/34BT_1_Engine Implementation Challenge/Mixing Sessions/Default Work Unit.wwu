@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C44C4F34-90A3-49C2-BD0B-F2669EF83F95}" SchemaVersion="103">
+	<MixingSessions>
+		<WorkUnit Name="Default Work Unit" ID="{C44C4F34-90A3-49C2-BD0B-F2669EF83F95}" PersistMode="Standalone">
+			<ChildrenList>
+				<MixingSession Name="RPM_Test" ID="{44AE87BA-43E5-4B5F-8D5C-05606BB59FDF}">
+					<ObjectList>
+						<ObjectRef Name="StartEngine" ID="{F7326BC0-BD76-424D-A2E2-142A24287E79}" WorkUnitID="{2BA88C47-98E1-45E9-8505-E7F1735E34D4}"/>
+						<ObjectRef Name="StopEngine" ID="{5B2EC1F8-F5C3-4945-AD7A-0B04FC3AB855}" WorkUnitID="{2BA88C47-98E1-45E9-8505-E7F1735E34D4}"/>
+						<ObjectRef Name="EngineRPM" ID="{44E19535-880D-458A-8206-B462635A2D6F}" WorkUnitID="{2BA88C47-98E1-45E9-8505-E7F1735E34D4}"/>
+						<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{380BB85A-4B44-4B0E-97A3-85F5FBBB4D41}"/>
+					</ObjectList>
+				</MixingSession>
+			</ChildrenList>
+		</WorkUnit>
+	</MixingSessions>
+</WwiseDocument>

@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1087172201	StartEngine			\Default Work Unit\StartEngine	
+	3762828835	StopEngine			\Default Work Unit\StopEngine	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3774151474	RTPC_RPM			\Default Work Unit\RTPC_RPM	
+
